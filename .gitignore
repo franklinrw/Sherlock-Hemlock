@@ -1,1 +1,21 @@
 .ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+*.log
+*.swp
+pip-wheel-metadata/
+pip-delete-this-directory.txt
+dist/
+build/
+*.pyc
+*.tgz
+*.whl
+
+
+# Python virtual environment
+venv/
