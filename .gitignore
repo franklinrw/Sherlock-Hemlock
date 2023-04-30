@@ -13,6 +13,7 @@ build/
 *.pyc
 *.tgz
 *.whl
+*.gz
 
 # Python virtual environment
 venv/
