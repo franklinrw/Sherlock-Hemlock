@@ -20,4 +20,4 @@ License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 Paper: https://arxiv.org/abs/1710.10903
 
 ## Note
-This repository is currently not maintained anymore. Please feel free to use what fits your requirements.
+This repository is not maintained anymore nor is it complete. Please feel free to use what fits your requirements.
